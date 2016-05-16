@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository
+This is the "Hello World" project marking the beginning of my GitHub journey...
